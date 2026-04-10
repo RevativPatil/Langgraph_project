@@ -1,0 +1,13 @@
+pydantic
+langgraph
+langchain-core
+pyppeteer 
+ipython
+pyppeteer 
+notebook
+ipykernel
+nest_asyncio
+langchain-community
+python-dotenv
+langchain-groq
+arxiv
